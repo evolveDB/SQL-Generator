@@ -1,0 +1,1500 @@
+5-LOW          
+1-URGENT       
+5-LOW          
+5-LOW          
+5-LOW          
+4-NOT SPECIFIED
+2-HIGH         
+2-HIGH         
+3-MEDIUM       
+3-MEDIUM       
+4-NOT SPECIFIED
+1-URGENT       
+3-MEDIUM       
+4-NOT SPECIFIED
+3-MEDIUM       
+3-MEDIUM       
+1-URGENT       
+5-LOW          
+4-NOT SPECIFIED
+3-MEDIUM       
+4-NOT SPECIFIED
+5-LOW          
+4-NOT SPECIFIED
+2-HIGH         
+3-MEDIUM       
+1-URGENT       
+4-NOT SPECIFIED
+4-NOT SPECIFIED
+3-MEDIUM       
+2-HIGH         
+4-NOT SPECIFIED
+1-URGENT       
+5-LOW          
+2-HIGH         
+3-MEDIUM       
+3-MEDIUM       
+1-URGENT       
+4-NOT SPECIFIED
+4-NOT SPECIFIED
+4-NOT SPECIFIED
+2-HIGH         
+3-MEDIUM       
+3-MEDIUM       
+5-LOW          
+4-NOT SPECIFIED
+2-HIGH         
+4-NOT SPECIFIED
+5-LOW          
+1-URGENT       
+3-MEDIUM       
+3-MEDIUM       
+2-HIGH         
+2-HIGH         
+4-NOT SPECIFIED
+2-HIGH         
+4-NOT SPECIFIED
+1-URGENT       
+2-HIGH         
+5-LOW          
+1-URGENT       
+1-URGENT       
+1-URGENT       
+2-HIGH         
+4-NOT SPECIFIED
+3-MEDIUM       
+1-URGENT       
+4-NOT SPECIFIED
+3-MEDIUM       
+3-MEDIUM       
+4-NOT SPECIFIED
+2-HIGH         
+1-URGENT       
+3-MEDIUM       
+4-NOT SPECIFIED
+1-URGENT       
+2-HIGH         
+2-HIGH         
+3-MEDIUM       
+2-HIGH         
+2-HIGH         
+3-MEDIUM       
+1-URGENT       
+1-URGENT       
+1-URGENT       
+5-LOW          
+2-HIGH         
+5-LOW          
+2-HIGH         
+5-LOW          
+2-HIGH         
+5-LOW          
+4-NOT SPECIFIED
+2-HIGH         
+2-HIGH         
+3-MEDIUM       
+5-LOW          
+5-LOW          
+2-HIGH         
+4-NOT SPECIFIED
+4-NOT SPECIFIED
+2-HIGH         
+5-LOW          
+2-HIGH         
+5-LOW          
+3-MEDIUM       
+4-NOT SPECIFIED
+3-MEDIUM       
+4-NOT SPECIFIED
+5-LOW          
+4-NOT SPECIFIED
+1-URGENT       
+3-MEDIUM       
+2-HIGH         
+4-NOT SPECIFIED
+5-LOW          
+1-URGENT       
+5-LOW          
+5-LOW          
+1-URGENT       
+5-LOW          
+2-HIGH         
+1-URGENT       
+2-HIGH         
+3-MEDIUM       
+2-HIGH         
+4-NOT SPECIFIED
+1-URGENT       
+5-LOW          
+2-HIGH         
+2-HIGH         
+4-NOT SPECIFIED
+2-HIGH         
+5-LOW          
+2-HIGH         
+1-URGENT       
+2-HIGH         
+2-HIGH         
+2-HIGH         
+3-MEDIUM       
+1-URGENT       
+1-URGENT       
+1-URGENT       
+1-URGENT       
+3-MEDIUM       
+5-LOW          
+5-LOW          
+2-HIGH         
+2-HIGH         
+4-NOT SPECIFIED
+1-URGENT       
+3-MEDIUM       
+3-MEDIUM       
+3-MEDIUM       
+1-URGENT       
+1-URGENT       
+3-MEDIUM       
+2-HIGH         
+2-HIGH         
+5-LOW          
+2-HIGH         
+5-LOW          
+3-MEDIUM       
+2-HIGH         
+1-URGENT       
+2-HIGH         
+2-HIGH         
+1-URGENT       
+5-LOW          
+1-URGENT       
+5-LOW          
+2-HIGH         
+2-HIGH         
+3-MEDIUM       
+5-LOW          
+2-HIGH         
+3-MEDIUM       
+4-NOT SPECIFIED
+1-URGENT       
+3-MEDIUM       
+3-MEDIUM       
+1-URGENT       
+5-LOW          
+4-NOT SPECIFIED
+5-LOW          
+5-LOW          
+4-NOT SPECIFIED
+5-LOW          
+3-MEDIUM       
+2-HIGH         
+5-LOW          
+4-NOT SPECIFIED
+3-MEDIUM       
+3-MEDIUM       
+5-LOW          
+1-URGENT       
+2-HIGH         
+3-MEDIUM       
+1-URGENT       
+1-URGENT       
+2-HIGH         
+1-URGENT       
+1-URGENT       
+5-LOW          
+3-MEDIUM       
+4-NOT SPECIFIED
+2-HIGH         
+3-MEDIUM       
+5-LOW          
+3-MEDIUM       
+3-MEDIUM       
+4-NOT SPECIFIED
+4-NOT SPECIFIED
+4-NOT SPECIFIED
+5-LOW          
+1-URGENT       
+1-URGENT       
+3-MEDIUM       
+3-MEDIUM       
+3-MEDIUM       
+4-NOT SPECIFIED
+2-HIGH         
+4-NOT SPECIFIED
+5-LOW          
+1-URGENT       
+1-URGENT       
+2-HIGH         
+5-LOW          
+4-NOT SPECIFIED
+4-NOT SPECIFIED
+4-NOT SPECIFIED
+4-NOT SPECIFIED
+5-LOW          
+2-HIGH         
+1-URGENT       
+1-URGENT       
+2-HIGH         
+4-NOT SPECIFIED
+1-URGENT       
+5-LOW          
+3-MEDIUM       
+4-NOT SPECIFIED
+5-LOW          
+3-MEDIUM       
+3-MEDIUM       
+5-LOW          
+2-HIGH         
+3-MEDIUM       
+3-MEDIUM       
+3-MEDIUM       
+5-LOW          
+3-MEDIUM       
+1-URGENT       
+2-HIGH         
+4-NOT SPECIFIED
+5-LOW          
+5-LOW          
+2-HIGH         
+5-LOW          
+3-MEDIUM       
+2-HIGH         
+2-HIGH         
+5-LOW          
+3-MEDIUM       
+1-URGENT       
+1-URGENT       
+3-MEDIUM       
+1-URGENT       
+3-MEDIUM       
+5-LOW          
+1-URGENT       
+2-HIGH         
+5-LOW          
+4-NOT SPECIFIED
+2-HIGH         
+1-URGENT       
+3-MEDIUM       
+4-NOT SPECIFIED
+3-MEDIUM       
+3-MEDIUM       
+3-MEDIUM       
+3-MEDIUM       
+1-URGENT       
+3-MEDIUM       
+5-LOW          
+2-HIGH         
+4-NOT SPECIFIED
+4-NOT SPECIFIED
+4-NOT SPECIFIED
+5-LOW          
+1-URGENT       
+2-HIGH         
+1-URGENT       
+4-NOT SPECIFIED
+2-HIGH         
+3-MEDIUM       
+5-LOW          
+5-LOW          
+4-NOT SPECIFIED
+3-MEDIUM       
+2-HIGH         
+1-URGENT       
+5-LOW          
+3-MEDIUM       
+5-LOW          
+4-NOT SPECIFIED
+4-NOT SPECIFIED
+3-MEDIUM       
+1-URGENT       
+4-NOT SPECIFIED
+3-MEDIUM       
+4-NOT SPECIFIED
+1-URGENT       
+1-URGENT       
+4-NOT SPECIFIED
+1-URGENT       
+5-LOW          
+1-URGENT       
+1-URGENT       
+4-NOT SPECIFIED
+5-LOW          
+1-URGENT       
+4-NOT SPECIFIED
+4-NOT SPECIFIED
+2-HIGH         
+1-URGENT       
+4-NOT SPECIFIED
+2-HIGH         
+3-MEDIUM       
+1-URGENT       
+3-MEDIUM       
+5-LOW          
+1-URGENT       
+2-HIGH         
+3-MEDIUM       
+2-HIGH         
+5-LOW          
+5-LOW          
+2-HIGH         
+5-LOW          
+5-LOW          
+1-URGENT       
+1-URGENT       
+1-URGENT       
+4-NOT SPECIFIED
+4-NOT SPECIFIED
+4-NOT SPECIFIED
+5-LOW          
+3-MEDIUM       
+3-MEDIUM       
+5-LOW          
+2-HIGH         
+4-NOT SPECIFIED
+4-NOT SPECIFIED
+5-LOW          
+2-HIGH         
+4-NOT SPECIFIED
+3-MEDIUM       
+1-URGENT       
+4-NOT SPECIFIED
+5-LOW          
+4-NOT SPECIFIED
+4-NOT SPECIFIED
+5-LOW          
+3-MEDIUM       
+3-MEDIUM       
+5-LOW          
+2-HIGH         
+5-LOW          
+3-MEDIUM       
+1-URGENT       
+2-HIGH         
+2-HIGH         
+5-LOW          
+2-HIGH         
+4-NOT SPECIFIED
+3-MEDIUM       
+2-HIGH         
+3-MEDIUM       
+3-MEDIUM       
+5-LOW          
+5-LOW          
+5-LOW          
+4-NOT SPECIFIED
+3-MEDIUM       
+4-NOT SPECIFIED
+4-NOT SPECIFIED
+5-LOW          
+2-HIGH         
+1-URGENT       
+3-MEDIUM       
+1-URGENT       
+4-NOT SPECIFIED
+5-LOW          
+1-URGENT       
+2-HIGH         
+2-HIGH         
+2-HIGH         
+3-MEDIUM       
+3-MEDIUM       
+3-MEDIUM       
+5-LOW          
+5-LOW          
+4-NOT SPECIFIED
+5-LOW          
+4-NOT SPECIFIED
+4-NOT SPECIFIED
+2-HIGH         
+3-MEDIUM       
+2-HIGH         
+1-URGENT       
+3-MEDIUM       
+3-MEDIUM       
+4-NOT SPECIFIED
+2-HIGH         
+4-NOT SPECIFIED
+1-URGENT       
+2-HIGH         
+1-URGENT       
+2-HIGH         
+4-NOT SPECIFIED
+3-MEDIUM       
+2-HIGH         
+4-NOT SPECIFIED
+4-NOT SPECIFIED
+1-URGENT       
+2-HIGH         
+1-URGENT       
+3-MEDIUM       
+2-HIGH         
+2-HIGH         
+3-MEDIUM       
+2-HIGH         
+2-HIGH         
+5-LOW          
+1-URGENT       
+5-LOW          
+2-HIGH         
+2-HIGH         
+1-URGENT       
+5-LOW          
+2-HIGH         
+4-NOT SPECIFIED
+2-HIGH         
+1-URGENT       
+4-NOT SPECIFIED
+2-HIGH         
+2-HIGH         
+5-LOW          
+4-NOT SPECIFIED
+1-URGENT       
+2-HIGH         
+2-HIGH         
+3-MEDIUM       
+1-URGENT       
+4-NOT SPECIFIED
+1-URGENT       
+3-MEDIUM       
+4-NOT SPECIFIED
+4-NOT SPECIFIED
+3-MEDIUM       
+2-HIGH         
+1-URGENT       
+1-URGENT       
+4-NOT SPECIFIED
+2-HIGH         
+1-URGENT       
+4-NOT SPECIFIED
+3-MEDIUM       
+3-MEDIUM       
+5-LOW          
+4-NOT SPECIFIED
+4-NOT SPECIFIED
+1-URGENT       
+4-NOT SPECIFIED
+5-LOW          
+5-LOW          
+2-HIGH         
+1-URGENT       
+3-MEDIUM       
+5-LOW          
+3-MEDIUM       
+3-MEDIUM       
+1-URGENT       
+4-NOT SPECIFIED
+1-URGENT       
+2-HIGH         
+3-MEDIUM       
+2-HIGH         
+3-MEDIUM       
+4-NOT SPECIFIED
+1-URGENT       
+4-NOT SPECIFIED
+2-HIGH         
+5-LOW          
+4-NOT SPECIFIED
+1-URGENT       
+4-NOT SPECIFIED
+2-HIGH         
+2-HIGH         
+4-NOT SPECIFIED
+4-NOT SPECIFIED
+2-HIGH         
+4-NOT SPECIFIED
+3-MEDIUM       
+3-MEDIUM       
+4-NOT SPECIFIED
+1-URGENT       
+3-MEDIUM       
+1-URGENT       
+1-URGENT       
+5-LOW          
+1-URGENT       
+2-HIGH         
+4-NOT SPECIFIED
+4-NOT SPECIFIED
+2-HIGH         
+1-URGENT       
+4-NOT SPECIFIED
+1-URGENT       
+5-LOW          
+2-HIGH         
+2-HIGH         
+3-MEDIUM       
+2-HIGH         
+3-MEDIUM       
+1-URGENT       
+2-HIGH         
+2-HIGH         
+2-HIGH         
+5-LOW          
+4-NOT SPECIFIED
+1-URGENT       
+2-HIGH         
+1-URGENT       
+2-HIGH         
+3-MEDIUM       
+1-URGENT       
+4-NOT SPECIFIED
+4-NOT SPECIFIED
+4-NOT SPECIFIED
+5-LOW          
+3-MEDIUM       
+3-MEDIUM       
+1-URGENT       
+3-MEDIUM       
+3-MEDIUM       
+2-HIGH         
+4-NOT SPECIFIED
+3-MEDIUM       
+2-HIGH         
+1-URGENT       
+4-NOT SPECIFIED
+2-HIGH         
+2-HIGH         
+2-HIGH         
+3-MEDIUM       
+4-NOT SPECIFIED
+3-MEDIUM       
+4-NOT SPECIFIED
+4-NOT SPECIFIED
+1-URGENT       
+4-NOT SPECIFIED
+2-HIGH         
+1-URGENT       
+3-MEDIUM       
+4-NOT SPECIFIED
+4-NOT SPECIFIED
+2-HIGH         
+5-LOW          
+4-NOT SPECIFIED
+4-NOT SPECIFIED
+4-NOT SPECIFIED
+4-NOT SPECIFIED
+3-MEDIUM       
+3-MEDIUM       
+4-NOT SPECIFIED
+2-HIGH         
+2-HIGH         
+5-LOW          
+4-NOT SPECIFIED
+5-LOW          
+5-LOW          
+2-HIGH         
+4-NOT SPECIFIED
+4-NOT SPECIFIED
+2-HIGH         
+5-LOW          
+1-URGENT       
+5-LOW          
+1-URGENT       
+3-MEDIUM       
+1-URGENT       
+2-HIGH         
+1-URGENT       
+1-URGENT       
+5-LOW          
+4-NOT SPECIFIED
+4-NOT SPECIFIED
+3-MEDIUM       
+5-LOW          
+4-NOT SPECIFIED
+4-NOT SPECIFIED
+3-MEDIUM       
+4-NOT SPECIFIED
+3-MEDIUM       
+5-LOW          
+2-HIGH         
+1-URGENT       
+4-NOT SPECIFIED
+3-MEDIUM       
+5-LOW          
+4-NOT SPECIFIED
+4-NOT SPECIFIED
+2-HIGH         
+2-HIGH         
+5-LOW          
+1-URGENT       
+1-URGENT       
+4-NOT SPECIFIED
+4-NOT SPECIFIED
+5-LOW          
+3-MEDIUM       
+4-NOT SPECIFIED
+2-HIGH         
+1-URGENT       
+5-LOW          
+1-URGENT       
+2-HIGH         
+5-LOW          
+4-NOT SPECIFIED
+3-MEDIUM       
+1-URGENT       
+2-HIGH         
+3-MEDIUM       
+4-NOT SPECIFIED
+2-HIGH         
+1-URGENT       
+3-MEDIUM       
+5-LOW          
+1-URGENT       
+1-URGENT       
+1-URGENT       
+4-NOT SPECIFIED
+2-HIGH         
+3-MEDIUM       
+3-MEDIUM       
+2-HIGH         
+4-NOT SPECIFIED
+2-HIGH         
+1-URGENT       
+4-NOT SPECIFIED
+1-URGENT       
+2-HIGH         
+3-MEDIUM       
+2-HIGH         
+5-LOW          
+4-NOT SPECIFIED
+4-NOT SPECIFIED
+3-MEDIUM       
+5-LOW          
+5-LOW          
+5-LOW          
+5-LOW          
+1-URGENT       
+2-HIGH         
+3-MEDIUM       
+4-NOT SPECIFIED
+5-LOW          
+3-MEDIUM       
+3-MEDIUM       
+1-URGENT       
+2-HIGH         
+4-NOT SPECIFIED
+3-MEDIUM       
+5-LOW          
+3-MEDIUM       
+1-URGENT       
+5-LOW          
+1-URGENT       
+1-URGENT       
+2-HIGH         
+5-LOW          
+5-LOW          
+2-HIGH         
+4-NOT SPECIFIED
+5-LOW          
+4-NOT SPECIFIED
+2-HIGH         
+2-HIGH         
+2-HIGH         
+4-NOT SPECIFIED
+1-URGENT       
+2-HIGH         
+5-LOW          
+4-NOT SPECIFIED
+1-URGENT       
+2-HIGH         
+2-HIGH         
+1-URGENT       
+1-URGENT       
+2-HIGH         
+2-HIGH         
+2-HIGH         
+2-HIGH         
+3-MEDIUM       
+3-MEDIUM       
+1-URGENT       
+3-MEDIUM       
+3-MEDIUM       
+2-HIGH         
+2-HIGH         
+1-URGENT       
+2-HIGH         
+2-HIGH         
+5-LOW          
+1-URGENT       
+2-HIGH         
+1-URGENT       
+4-NOT SPECIFIED
+2-HIGH         
+5-LOW          
+2-HIGH         
+5-LOW          
+3-MEDIUM       
+4-NOT SPECIFIED
+4-NOT SPECIFIED
+5-LOW          
+5-LOW          
+3-MEDIUM       
+3-MEDIUM       
+5-LOW          
+2-HIGH         
+4-NOT SPECIFIED
+3-MEDIUM       
+2-HIGH         
+4-NOT SPECIFIED
+2-HIGH         
+5-LOW          
+1-URGENT       
+5-LOW          
+2-HIGH         
+1-URGENT       
+2-HIGH         
+4-NOT SPECIFIED
+3-MEDIUM       
+1-URGENT       
+3-MEDIUM       
+3-MEDIUM       
+5-LOW          
+2-HIGH         
+1-URGENT       
+3-MEDIUM       
+1-URGENT       
+2-HIGH         
+5-LOW          
+1-URGENT       
+5-LOW          
+4-NOT SPECIFIED
+5-LOW          
+3-MEDIUM       
+5-LOW          
+3-MEDIUM       
+5-LOW          
+2-HIGH         
+1-URGENT       
+2-HIGH         
+1-URGENT       
+4-NOT SPECIFIED
+3-MEDIUM       
+5-LOW          
+3-MEDIUM       
+2-HIGH         
+2-HIGH         
+2-HIGH         
+5-LOW          
+3-MEDIUM       
+4-NOT SPECIFIED
+3-MEDIUM       
+1-URGENT       
+1-URGENT       
+5-LOW          
+2-HIGH         
+5-LOW          
+4-NOT SPECIFIED
+3-MEDIUM       
+4-NOT SPECIFIED
+3-MEDIUM       
+1-URGENT       
+1-URGENT       
+3-MEDIUM       
+1-URGENT       
+5-LOW          
+3-MEDIUM       
+1-URGENT       
+5-LOW          
+4-NOT SPECIFIED
+5-LOW          
+5-LOW          
+5-LOW          
+1-URGENT       
+4-NOT SPECIFIED
+5-LOW          
+2-HIGH         
+1-URGENT       
+5-LOW          
+1-URGENT       
+1-URGENT       
+1-URGENT       
+5-LOW          
+4-NOT SPECIFIED
+5-LOW          
+4-NOT SPECIFIED
+1-URGENT       
+5-LOW          
+4-NOT SPECIFIED
+5-LOW          
+1-URGENT       
+5-LOW          
+5-LOW          
+5-LOW          
+3-MEDIUM       
+1-URGENT       
+1-URGENT       
+3-MEDIUM       
+2-HIGH         
+5-LOW          
+3-MEDIUM       
+5-LOW          
+4-NOT SPECIFIED
+2-HIGH         
+4-NOT SPECIFIED
+5-LOW          
+2-HIGH         
+1-URGENT       
+2-HIGH         
+1-URGENT       
+4-NOT SPECIFIED
+5-LOW          
+3-MEDIUM       
+5-LOW          
+4-NOT SPECIFIED
+5-LOW          
+2-HIGH         
+1-URGENT       
+2-HIGH         
+1-URGENT       
+4-NOT SPECIFIED
+1-URGENT       
+2-HIGH         
+4-NOT SPECIFIED
+4-NOT SPECIFIED
+3-MEDIUM       
+3-MEDIUM       
+1-URGENT       
+4-NOT SPECIFIED
+1-URGENT       
+4-NOT SPECIFIED
+3-MEDIUM       
+4-NOT SPECIFIED
+5-LOW          
+4-NOT SPECIFIED
+4-NOT SPECIFIED
+1-URGENT       
+5-LOW          
+4-NOT SPECIFIED
+2-HIGH         
+4-NOT SPECIFIED
+2-HIGH         
+1-URGENT       
+3-MEDIUM       
+1-URGENT       
+3-MEDIUM       
+3-MEDIUM       
+5-LOW          
+1-URGENT       
+5-LOW          
+2-HIGH         
+5-LOW          
+2-HIGH         
+1-URGENT       
+5-LOW          
+5-LOW          
+2-HIGH         
+2-HIGH         
+4-NOT SPECIFIED
+5-LOW          
+5-LOW          
+2-HIGH         
+3-MEDIUM       
+5-LOW          
+5-LOW          
+4-NOT SPECIFIED
+2-HIGH         
+1-URGENT       
+3-MEDIUM       
+1-URGENT       
+2-HIGH         
+2-HIGH         
+4-NOT SPECIFIED
+4-NOT SPECIFIED
+2-HIGH         
+5-LOW          
+3-MEDIUM       
+4-NOT SPECIFIED
+3-MEDIUM       
+3-MEDIUM       
+2-HIGH         
+5-LOW          
+3-MEDIUM       
+5-LOW          
+1-URGENT       
+5-LOW          
+5-LOW          
+4-NOT SPECIFIED
+1-URGENT       
+4-NOT SPECIFIED
+1-URGENT       
+5-LOW          
+1-URGENT       
+4-NOT SPECIFIED
+1-URGENT       
+2-HIGH         
+2-HIGH         
+2-HIGH         
+3-MEDIUM       
+2-HIGH         
+1-URGENT       
+2-HIGH         
+3-MEDIUM       
+3-MEDIUM       
+1-URGENT       
+4-NOT SPECIFIED
+4-NOT SPECIFIED
+2-HIGH         
+2-HIGH         
+3-MEDIUM       
+5-LOW          
+4-NOT SPECIFIED
+1-URGENT       
+1-URGENT       
+3-MEDIUM       
+3-MEDIUM       
+4-NOT SPECIFIED
+2-HIGH         
+3-MEDIUM       
+1-URGENT       
+4-NOT SPECIFIED
+5-LOW          
+1-URGENT       
+1-URGENT       
+4-NOT SPECIFIED
+1-URGENT       
+5-LOW          
+1-URGENT       
+3-MEDIUM       
+3-MEDIUM       
+1-URGENT       
+5-LOW          
+1-URGENT       
+4-NOT SPECIFIED
+4-NOT SPECIFIED
+5-LOW          
+4-NOT SPECIFIED
+1-URGENT       
+1-URGENT       
+2-HIGH         
+5-LOW          
+5-LOW          
+4-NOT SPECIFIED
+3-MEDIUM       
+1-URGENT       
+5-LOW          
+5-LOW          
+1-URGENT       
+1-URGENT       
+4-NOT SPECIFIED
+4-NOT SPECIFIED
+3-MEDIUM       
+3-MEDIUM       
+3-MEDIUM       
+1-URGENT       
+3-MEDIUM       
+4-NOT SPECIFIED
+2-HIGH         
+4-NOT SPECIFIED
+1-URGENT       
+5-LOW          
+5-LOW          
+2-HIGH         
+4-NOT SPECIFIED
+5-LOW          
+4-NOT SPECIFIED
+2-HIGH         
+3-MEDIUM       
+5-LOW          
+3-MEDIUM       
+4-NOT SPECIFIED
+4-NOT SPECIFIED
+3-MEDIUM       
+5-LOW          
+3-MEDIUM       
+5-LOW          
+1-URGENT       
+3-MEDIUM       
+2-HIGH         
+3-MEDIUM       
+2-HIGH         
+3-MEDIUM       
+5-LOW          
+4-NOT SPECIFIED
+5-LOW          
+3-MEDIUM       
+2-HIGH         
+1-URGENT       
+1-URGENT       
+4-NOT SPECIFIED
+1-URGENT       
+4-NOT SPECIFIED
+2-HIGH         
+3-MEDIUM       
+3-MEDIUM       
+2-HIGH         
+4-NOT SPECIFIED
+4-NOT SPECIFIED
+1-URGENT       
+4-NOT SPECIFIED
+1-URGENT       
+3-MEDIUM       
+4-NOT SPECIFIED
+1-URGENT       
+5-LOW          
+4-NOT SPECIFIED
+3-MEDIUM       
+5-LOW          
+1-URGENT       
+4-NOT SPECIFIED
+4-NOT SPECIFIED
+1-URGENT       
+3-MEDIUM       
+5-LOW          
+5-LOW          
+5-LOW          
+2-HIGH         
+2-HIGH         
+3-MEDIUM       
+5-LOW          
+1-URGENT       
+1-URGENT       
+2-HIGH         
+3-MEDIUM       
+4-NOT SPECIFIED
+3-MEDIUM       
+4-NOT SPECIFIED
+3-MEDIUM       
+1-URGENT       
+1-URGENT       
+3-MEDIUM       
+5-LOW          
+1-URGENT       
+5-LOW          
+1-URGENT       
+1-URGENT       
+4-NOT SPECIFIED
+4-NOT SPECIFIED
+3-MEDIUM       
+4-NOT SPECIFIED
+5-LOW          
+4-NOT SPECIFIED
+1-URGENT       
+3-MEDIUM       
+1-URGENT       
+4-NOT SPECIFIED
+3-MEDIUM       
+3-MEDIUM       
+3-MEDIUM       
+3-MEDIUM       
+2-HIGH         
+3-MEDIUM       
+3-MEDIUM       
+4-NOT SPECIFIED
+3-MEDIUM       
+3-MEDIUM       
+2-HIGH         
+1-URGENT       
+2-HIGH         
+4-NOT SPECIFIED
+2-HIGH         
+2-HIGH         
+2-HIGH         
+4-NOT SPECIFIED
+1-URGENT       
+5-LOW          
+4-NOT SPECIFIED
+1-URGENT       
+1-URGENT       
+1-URGENT       
+2-HIGH         
+5-LOW          
+1-URGENT       
+2-HIGH         
+3-MEDIUM       
+1-URGENT       
+2-HIGH         
+5-LOW          
+1-URGENT       
+3-MEDIUM       
+4-NOT SPECIFIED
+1-URGENT       
+3-MEDIUM       
+3-MEDIUM       
+5-LOW          
+2-HIGH         
+5-LOW          
+1-URGENT       
+1-URGENT       
+5-LOW          
+3-MEDIUM       
+5-LOW          
+3-MEDIUM       
+4-NOT SPECIFIED
+5-LOW          
+4-NOT SPECIFIED
+3-MEDIUM       
+1-URGENT       
+3-MEDIUM       
+2-HIGH         
+3-MEDIUM       
+5-LOW          
+5-LOW          
+3-MEDIUM       
+1-URGENT       
+3-MEDIUM       
+4-NOT SPECIFIED
+3-MEDIUM       
+4-NOT SPECIFIED
+3-MEDIUM       
+4-NOT SPECIFIED
+5-LOW          
+3-MEDIUM       
+5-LOW          
+4-NOT SPECIFIED
+2-HIGH         
+2-HIGH         
+5-LOW          
+5-LOW          
+5-LOW          
+2-HIGH         
+4-NOT SPECIFIED
+4-NOT SPECIFIED
+1-URGENT       
+3-MEDIUM       
+1-URGENT       
+3-MEDIUM       
+5-LOW          
+2-HIGH         
+3-MEDIUM       
+3-MEDIUM       
+1-URGENT       
+3-MEDIUM       
+5-LOW          
+4-NOT SPECIFIED
+1-URGENT       
+2-HIGH         
+5-LOW          
+1-URGENT       
+1-URGENT       
+3-MEDIUM       
+1-URGENT       
+4-NOT SPECIFIED
+1-URGENT       
+4-NOT SPECIFIED
+2-HIGH         
+3-MEDIUM       
+4-NOT SPECIFIED
+2-HIGH         
+4-NOT SPECIFIED
+4-NOT SPECIFIED
+4-NOT SPECIFIED
+2-HIGH         
+1-URGENT       
+3-MEDIUM       
+4-NOT SPECIFIED
+1-URGENT       
+2-HIGH         
+4-NOT SPECIFIED
+2-HIGH         
+5-LOW          
+2-HIGH         
+4-NOT SPECIFIED
+3-MEDIUM       
+5-LOW          
+2-HIGH         
+4-NOT SPECIFIED
+2-HIGH         
+1-URGENT       
+1-URGENT       
+1-URGENT       
+3-MEDIUM       
+4-NOT SPECIFIED
+5-LOW          
+1-URGENT       
+3-MEDIUM       
+5-LOW          
+2-HIGH         
+4-NOT SPECIFIED
+5-LOW          
+3-MEDIUM       
+3-MEDIUM       
+3-MEDIUM       
+2-HIGH         
+1-URGENT       
+1-URGENT       
+4-NOT SPECIFIED
+1-URGENT       
+1-URGENT       
+5-LOW          
+3-MEDIUM       
+2-HIGH         
+1-URGENT       
+5-LOW          
+5-LOW          
+3-MEDIUM       
+1-URGENT       
+1-URGENT       
+5-LOW          
+4-NOT SPECIFIED
+4-NOT SPECIFIED
+4-NOT SPECIFIED
+4-NOT SPECIFIED
+3-MEDIUM       
+4-NOT SPECIFIED
+4-NOT SPECIFIED
+3-MEDIUM       
+5-LOW          
+1-URGENT       
+1-URGENT       
+3-MEDIUM       
+1-URGENT       
+4-NOT SPECIFIED
+5-LOW          
+3-MEDIUM       
+3-MEDIUM       
+3-MEDIUM       
+4-NOT SPECIFIED
+5-LOW          
+2-HIGH         
+3-MEDIUM       
+1-URGENT       
+4-NOT SPECIFIED
+4-NOT SPECIFIED
+4-NOT SPECIFIED
+3-MEDIUM       
+5-LOW          
+4-NOT SPECIFIED
+2-HIGH         
+3-MEDIUM       
+5-LOW          
+1-URGENT       
+2-HIGH         
+2-HIGH         
+3-MEDIUM       
+4-NOT SPECIFIED
+3-MEDIUM       
+5-LOW          
+1-URGENT       
+1-URGENT       
+2-HIGH         
+4-NOT SPECIFIED
+1-URGENT       
+3-MEDIUM       
+2-HIGH         
+5-LOW          
+1-URGENT       
+1-URGENT       
+3-MEDIUM       
+5-LOW          
+3-MEDIUM       
+4-NOT SPECIFIED
+2-HIGH         
+1-URGENT       
+4-NOT SPECIFIED
+5-LOW          
+1-URGENT       
+4-NOT SPECIFIED
+5-LOW          
+4-NOT SPECIFIED
+5-LOW          
+3-MEDIUM       
+1-URGENT       
+3-MEDIUM       
+2-HIGH         
+5-LOW          
+4-NOT SPECIFIED
+1-URGENT       
+1-URGENT       
+5-LOW          
+3-MEDIUM       
+1-URGENT       
+3-MEDIUM       
+4-NOT SPECIFIED
+5-LOW          
+5-LOW          
+4-NOT SPECIFIED
+3-MEDIUM       
+2-HIGH         
+4-NOT SPECIFIED
+1-URGENT       
+2-HIGH         
+4-NOT SPECIFIED
+4-NOT SPECIFIED
+1-URGENT       
+2-HIGH         
+3-MEDIUM       
+2-HIGH         
+3-MEDIUM       
+1-URGENT       
+2-HIGH         
+4-NOT SPECIFIED
+5-LOW          
+3-MEDIUM       
+2-HIGH         
+1-URGENT       
+3-MEDIUM       
+4-NOT SPECIFIED
+2-HIGH         
+5-LOW          
+5-LOW          
+2-HIGH         
+4-NOT SPECIFIED
+2-HIGH         
+4-NOT SPECIFIED
+1-URGENT       
+5-LOW          
+2-HIGH         
+1-URGENT       
+3-MEDIUM       
+1-URGENT       
+2-HIGH         
+3-MEDIUM       
+5-LOW          
+1-URGENT       
+5-LOW          
+1-URGENT       
+5-LOW          
+2-HIGH         
+1-URGENT       
+2-HIGH         
+1-URGENT       
+5-LOW          
+5-LOW          
+5-LOW          
+5-LOW          
+5-LOW          
+4-NOT SPECIFIED
+3-MEDIUM       
+2-HIGH         
+1-URGENT       
+4-NOT SPECIFIED
+3-MEDIUM       
+1-URGENT       
+4-NOT SPECIFIED
+4-NOT SPECIFIED
+4-NOT SPECIFIED
+1-URGENT       
+5-LOW          
+5-LOW          
+3-MEDIUM       
+5-LOW          
+4-NOT SPECIFIED
+4-NOT SPECIFIED
+5-LOW          
+1-URGENT       
+5-LOW          
+1-URGENT       
+3-MEDIUM       
+2-HIGH         
+5-LOW          
+1-URGENT       
+5-LOW          
+1-URGENT       
+5-LOW          
+3-MEDIUM       
+1-URGENT       
+4-NOT SPECIFIED
+3-MEDIUM       
+1-URGENT       
+5-LOW          
+4-NOT SPECIFIED
+3-MEDIUM       
+4-NOT SPECIFIED
+3-MEDIUM       
+3-MEDIUM       
+4-NOT SPECIFIED
+2-HIGH         
+4-NOT SPECIFIED
+2-HIGH         
+3-MEDIUM       
+4-NOT SPECIFIED
+5-LOW          
+4-NOT SPECIFIED
+2-HIGH         
+3-MEDIUM       
+4-NOT SPECIFIED
+4-NOT SPECIFIED
+2-HIGH         
+5-LOW          
+4-NOT SPECIFIED
+1-URGENT       
+3-MEDIUM       
+3-MEDIUM       
+3-MEDIUM       
+3-MEDIUM       
+3-MEDIUM       
+1-URGENT       
+3-MEDIUM       
+2-HIGH         
+4-NOT SPECIFIED
+2-HIGH         
+1-URGENT       
+4-NOT SPECIFIED
+1-URGENT       
+5-LOW          
+2-HIGH         
+1-URGENT       
+1-URGENT       
+3-MEDIUM       
+5-LOW          
+1-URGENT       
+5-LOW          
+4-NOT SPECIFIED
+3-MEDIUM       
+4-NOT SPECIFIED
+2-HIGH         
+1-URGENT       
+5-LOW          
+1-URGENT       
+2-HIGH         
+3-MEDIUM       
+3-MEDIUM       
+4-NOT SPECIFIED
+3-MEDIUM       
+1-URGENT       
+4-NOT SPECIFIED
+4-NOT SPECIFIED
+5-LOW          
+5-LOW          
+2-HIGH         
+2-HIGH         
+2-HIGH         
+5-LOW          
+2-HIGH         
+3-MEDIUM       
+4-NOT SPECIFIED
+5-LOW          
+1-URGENT       
+2-HIGH         
+5-LOW          
+1-URGENT       
+3-MEDIUM       
+5-LOW          
+1-URGENT       
+3-MEDIUM       
+5-LOW          
+2-HIGH         
+4-NOT SPECIFIED
+4-NOT SPECIFIED
+1-URGENT       
+4-NOT SPECIFIED
+3-MEDIUM       
+1-URGENT       
+3-MEDIUM       
+3-MEDIUM       
+5-LOW          
+2-HIGH         
+3-MEDIUM       
+5-LOW          
+4-NOT SPECIFIED
+2-HIGH         
+4-NOT SPECIFIED
+2-HIGH         
+5-LOW          
+5-LOW          
+2-HIGH         
+3-MEDIUM       
+5-LOW          
+5-LOW          
+4-NOT SPECIFIED
+3-MEDIUM       
+1-URGENT       
+1-URGENT       
+5-LOW          
+1-URGENT       
+2-HIGH         
+3-MEDIUM       
+3-MEDIUM       
+5-LOW          
+3-MEDIUM       
+2-HIGH         
+1-URGENT       
+4-NOT SPECIFIED
